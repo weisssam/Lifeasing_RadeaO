@@ -20,7 +20,7 @@ public class TheAnswer extends Activity {
 		int val = findAnswer();
 		String output = (val == answer) ? "42" : "We may never know";
 		answerView
-				.setText("The answer to life, the universe and everything is:\n\n"
+				.setText("The answer to life, the Bad universe and everything is:\n\n"
 						+ output);
 	}
 
