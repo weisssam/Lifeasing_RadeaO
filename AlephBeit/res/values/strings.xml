@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Aleph Beit Learning!</string>
+    <string name="app_name">Aleph Beit Learning</string>
+    <string name="down_string">Next</string>
+    <string name="up_string">Next</string>
+    <string name="play_string">Check</string>
+    <string name="face_name_01">face01</string>
+    <string name="Letters">Letters</string>
+    <string name="check_string">Check</string>
+</resources>
